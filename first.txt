@@ -1,0 +1,7 @@
+s This is my first txt
+ insert
+ wq
+ wq
+ wq
+ wwq
+ q
